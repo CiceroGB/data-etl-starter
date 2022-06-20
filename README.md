@@ -1,6 +1,5 @@
 # Local development environment for python data projects, with Docker
 
-Code for the post: [Setting up local dev environment with Docker](https://www.startdataengineering.com/post/local-dev/)
 
 ## Pre-requisite
 
@@ -19,5 +18,3 @@ make ci # run tests and format code
 make run-etl # run the ETL process
 make down # spins down the containers
 ```
-
-For more details, please read the post: [Setting up local dev environment with Docker](https://www.startdataengineering.com/post/local-dev/).
