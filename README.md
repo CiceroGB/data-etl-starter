@@ -11,7 +11,6 @@ To run the code, you will need
 Clone the git repo and run the ETL as shown below.
 
 ```bash
-git clone https://github.com/josephmachado/local_dev.git
 cd local_dev
 make up
 make ci # run tests and format code
